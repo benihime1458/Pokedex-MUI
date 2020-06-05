@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Container {
+  padding: 50px
+}
+
+.Logo {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.Grid {
+  padding: 50px
+}
+
+.Search {
+  background-color: white;
+}
